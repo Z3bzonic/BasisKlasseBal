@@ -1,0 +1,30 @@
+Z:\repos\Cursus\CsharpDeel2\OOP\BasisklasseBall\BasisklasseBall\BasisklasseBall\bin\Debug\net6.0\BasisklasseBall.exe
+Z:\repos\Cursus\CsharpDeel2\OOP\BasisklasseBall\BasisklasseBall\BasisklasseBall\bin\Debug\net6.0\BasisklasseBall.deps.json
+Z:\repos\Cursus\CsharpDeel2\OOP\BasisklasseBall\BasisklasseBall\BasisklasseBall\bin\Debug\net6.0\BasisklasseBall.runtimeconfig.json
+Z:\repos\Cursus\CsharpDeel2\OOP\BasisklasseBall\BasisklasseBall\BasisklasseBall\bin\Debug\net6.0\BasisklasseBall.dll
+Z:\repos\Cursus\CsharpDeel2\OOP\BasisklasseBall\BasisklasseBall\BasisklasseBall\bin\Debug\net6.0\BasisklasseBall.pdb
+Z:\repos\Cursus\CsharpDeel2\OOP\BasisklasseBall\BasisklasseBall\BasisklasseBall\obj\Debug\net6.0\BasisklasseBall.csproj.AssemblyReference.cache
+Z:\repos\Cursus\CsharpDeel2\OOP\BasisklasseBall\BasisklasseBall\BasisklasseBall\obj\Debug\net6.0\BasisklasseBall.GeneratedMSBuildEditorConfig.editorconfig
+Z:\repos\Cursus\CsharpDeel2\OOP\BasisklasseBall\BasisklasseBall\BasisklasseBall\obj\Debug\net6.0\BasisklasseBall.AssemblyInfoInputs.cache
+Z:\repos\Cursus\CsharpDeel2\OOP\BasisklasseBall\BasisklasseBall\BasisklasseBall\obj\Debug\net6.0\BasisklasseBall.AssemblyInfo.cs
+Z:\repos\Cursus\CsharpDeel2\OOP\BasisklasseBall\BasisklasseBall\BasisklasseBall\obj\Debug\net6.0\BasisklasseBall.csproj.CoreCompileInputs.cache
+Z:\repos\Cursus\CsharpDeel2\OOP\BasisklasseBall\BasisklasseBall\BasisklasseBall\obj\Debug\net6.0\BasisklasseBall.dll
+Z:\repos\Cursus\CsharpDeel2\OOP\BasisklasseBall\BasisklasseBall\BasisklasseBall\obj\Debug\net6.0\refint\BasisklasseBall.dll
+Z:\repos\Cursus\CsharpDeel2\OOP\BasisklasseBall\BasisklasseBall\BasisklasseBall\obj\Debug\net6.0\BasisklasseBall.pdb
+Z:\repos\Cursus\CsharpDeel2\OOP\BasisklasseBall\BasisklasseBall\BasisklasseBall\obj\Debug\net6.0\BasisklasseBall.genruntimeconfig.cache
+Z:\repos\Cursus\CsharpDeel2\OOP\BasisklasseBall\BasisklasseBall\BasisklasseBall\obj\Debug\net6.0\ref\BasisklasseBall.dll
+Z:\repos\Cursus\CsharpDeel2\testing\Unit testing on older apps\BasisklasseBall\BasisklasseBall\BasisklasseBall\bin\Debug\net6.0\BasisklasseBall.exe
+Z:\repos\Cursus\CsharpDeel2\testing\Unit testing on older apps\BasisklasseBall\BasisklasseBall\BasisklasseBall\bin\Debug\net6.0\BasisklasseBall.deps.json
+Z:\repos\Cursus\CsharpDeel2\testing\Unit testing on older apps\BasisklasseBall\BasisklasseBall\BasisklasseBall\bin\Debug\net6.0\BasisklasseBall.runtimeconfig.json
+Z:\repos\Cursus\CsharpDeel2\testing\Unit testing on older apps\BasisklasseBall\BasisklasseBall\BasisklasseBall\bin\Debug\net6.0\BasisklasseBall.dll
+Z:\repos\Cursus\CsharpDeel2\testing\Unit testing on older apps\BasisklasseBall\BasisklasseBall\BasisklasseBall\bin\Debug\net6.0\BasisklasseBall.pdb
+Z:\repos\Cursus\CsharpDeel2\testing\Unit testing on older apps\BasisklasseBall\BasisklasseBall\BasisklasseBall\obj\Debug\net6.0\BasisklasseBall.csproj.AssemblyReference.cache
+Z:\repos\Cursus\CsharpDeel2\testing\Unit testing on older apps\BasisklasseBall\BasisklasseBall\BasisklasseBall\obj\Debug\net6.0\BasisklasseBall.GeneratedMSBuildEditorConfig.editorconfig
+Z:\repos\Cursus\CsharpDeel2\testing\Unit testing on older apps\BasisklasseBall\BasisklasseBall\BasisklasseBall\obj\Debug\net6.0\BasisklasseBall.AssemblyInfoInputs.cache
+Z:\repos\Cursus\CsharpDeel2\testing\Unit testing on older apps\BasisklasseBall\BasisklasseBall\BasisklasseBall\obj\Debug\net6.0\BasisklasseBall.AssemblyInfo.cs
+Z:\repos\Cursus\CsharpDeel2\testing\Unit testing on older apps\BasisklasseBall\BasisklasseBall\BasisklasseBall\obj\Debug\net6.0\BasisklasseBall.csproj.CoreCompileInputs.cache
+Z:\repos\Cursus\CsharpDeel2\testing\Unit testing on older apps\BasisklasseBall\BasisklasseBall\BasisklasseBall\obj\Debug\net6.0\BasisklasseBall.dll
+Z:\repos\Cursus\CsharpDeel2\testing\Unit testing on older apps\BasisklasseBall\BasisklasseBall\BasisklasseBall\obj\Debug\net6.0\refint\BasisklasseBall.dll
+Z:\repos\Cursus\CsharpDeel2\testing\Unit testing on older apps\BasisklasseBall\BasisklasseBall\BasisklasseBall\obj\Debug\net6.0\BasisklasseBall.pdb
+Z:\repos\Cursus\CsharpDeel2\testing\Unit testing on older apps\BasisklasseBall\BasisklasseBall\BasisklasseBall\obj\Debug\net6.0\BasisklasseBall.genruntimeconfig.cache
+Z:\repos\Cursus\CsharpDeel2\testing\Unit testing on older apps\BasisklasseBall\BasisklasseBall\BasisklasseBall\obj\Debug\net6.0\ref\BasisklasseBall.dll
